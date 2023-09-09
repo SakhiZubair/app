@@ -54,7 +54,7 @@ import {
 <Alert alert={alert}/>
  <div className="container my-3">
  {/* <TextForm showAlert={showAlert} heading="Enter The Text To Analyze below" mode={mode}/> */}
- 
+ <h1>Github</h1>
  <Routes>
   <Route path='/' element={ <TextForm showAlert={showAlert} heading="Enter The Text To Analyze below" mode={mode}/>
 }/>
